@@ -1,0 +1,17 @@
+#genie-cli-window {display:none;}
+
+/* Overlay */
+#simplemodal-overlay {background-color:#000;}
+
+/* Container */
+#simplemodal-container {max-width:600px; width:100%; height:auto !important; color:#bbb; background-color:#333; border:4px solid #444; padding:12px;}
+#simplemodal-container .simplemodal-data {padding:8px;}
+#simplemodal-container code {background:#141414; border-left:3px solid #65B43D; color:#bbb; display:block; font-size:12px; margin-bottom:12px; padding:4px 6px 6px;}
+#simplemodal-container a {color:#ddd;}
+#simplemodal-container a.modalCloseImg {background:url(../img/basic/x.png) no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-15px; right:-16px; cursor:pointer;}
+#simplemodal-container h3 {color:#84b8d9;}
+
+.genie-cli-textbox{ width:100%; padding: 5px 9px 0; border: 5px solid transparent; border-radius: 10px; font-size:16px; height:42px;}
+
+.genie-err{ position:fixed; background:#F33; padding:5px; color:#FFF; text-align:center; margin:0 auto; top:32px; width: 67%; }
+#genie-notice-container{ background:#00db95; }
