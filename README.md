@@ -14,10 +14,10 @@ FIND: find <page/post/any custom post type> <"title">
 REPLACE: replace <"find"> <"replace"> (content/title ; default is content) (page/post/any custom post type)
 - Finds and replace a certain type of string in the page/post/custom post type. !Case Sensitive!
 
-Backup: backup
+BACKUP: backup
 - Creates a backup of your mysql database and allows you to download the sql file.
 
-Clean: clean (page/post/any custom post type)
+CLEAN: clean (page/post/any custom post type)
 - Deletes all trashed and auto-drafted pages/posts in the database to clear up space and optimize the wp_posts table.
 
 Legend:
