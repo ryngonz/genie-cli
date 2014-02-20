@@ -192,7 +192,7 @@ class Genie_CLI_Admin {
 		 *   For reference: http://codex.wordpress.org/Roles_and_Capabilities
 		 */
 		$this->plugin_screen_hook_suffix = add_options_page(
-			__( 'Genie CLI Macros', $this->plugin_slug ),
+			__( 'Genie CLI', $this->plugin_slug ),
 			__( 'Genie CLI', $this->plugin_slug ),
 			'manage_options',
 			$this->plugin_slug,

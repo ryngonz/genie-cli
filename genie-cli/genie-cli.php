@@ -9,7 +9,7 @@
  * @wordpress-plugin
  * Plugin Name:       Genie CLI
  * Plugin URI:        http://www.mojobitz.com
- * Description:       A command line and macro generator plugin that lets user use a command line text box to search, create new posts/pages, delete, or do proceedure calls inside the wordpress installation. It can also optimize and clean the wp_posts table from drafts or trashed posts and backup the database. To start the plugin, you must be using an administrator account and press " ` " or " ~ ".
+ * Description:       A command line plugin that lets user use a command line text box to search, create new posts/pages, delete, or do proceedure calls inside the wordpress installation. It can also optimize and clean the wp_posts table from drafts or trashed posts and backup the database. To start the plugin, you must be using an administrator account and press " ` " or " ~ ".
  * Version:           1.0.0 alpha
  * Author:            Ryan Gonzales
  * Author URI:        http://www.mojobitz.com
